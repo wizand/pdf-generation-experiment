@@ -1,0 +1,15 @@
+/home/wizand/dev/pdfertest/PdfCreationCaller/bin/Debug/net8.0/PdfCreationCaller
+/home/wizand/dev/pdfertest/PdfCreationCaller/bin/Debug/net8.0/htmlSourceDemo.html
+/home/wizand/dev/pdfertest/PdfCreationCaller/bin/Debug/net8.0/PdfCreationCaller.deps.json
+/home/wizand/dev/pdfertest/PdfCreationCaller/bin/Debug/net8.0/PdfCreationCaller.runtimeconfig.json
+/home/wizand/dev/pdfertest/PdfCreationCaller/bin/Debug/net8.0/PdfCreationCaller.dll
+/home/wizand/dev/pdfertest/PdfCreationCaller/bin/Debug/net8.0/PdfCreationCaller.pdb
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/PdfCreationCaller.GeneratedMSBuildEditorConfig.editorconfig
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/PdfCreationCaller.AssemblyInfoInputs.cache
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/PdfCreationCaller.AssemblyInfo.cs
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/PdfCreationCaller.csproj.CoreCompileInputs.cache
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/PdfCreationCaller.dll
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/refint/PdfCreationCaller.dll
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/PdfCreationCaller.pdb
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/PdfCreationCaller.genruntimeconfig.cache
+/home/wizand/dev/pdfertest/PdfCreationCaller/obj/Debug/net8.0/ref/PdfCreationCaller.dll

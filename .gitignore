@@ -4,3 +4,6 @@
 
 # Editor backup files
 *~
+
+#Env file
+.env

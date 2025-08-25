@@ -103,6 +103,6 @@ if __name__ == '__main__':
     if API_KEY == "NA":
         print("No API_KEY environmental variable found..quitting")
         exit()
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
     
 

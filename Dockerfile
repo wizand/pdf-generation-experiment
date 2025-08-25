@@ -21,6 +21,6 @@ RUN pip install flask weasyprint gunicorn timedelta pyjwt
 COPY pdfapi.py /pdfapi.py
 			
 # Expose port
-EXPOSE 5000
+EXPOSE 5001
 # Run app
-CMD ["gunicorn", "--bind", "0.0.0.0:5000", "--workers", "4", "--threads", "2", "pdfapi:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:5001", "--workers", "4", "--threads", "2", "pdfapi:app"]

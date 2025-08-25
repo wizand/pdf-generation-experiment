@@ -15,7 +15,7 @@ RUN apt-get update && \
     && rm -rf /var/lib/apt/lists/*
 			
 # Install Python deps
-RUN pip install flask weasyprint gunicorn
+RUN pip install flask weasyprint gunicorn timedelta pyjwt
     
 # Copy app
 COPY pdfapi.py /pdfapi.py
